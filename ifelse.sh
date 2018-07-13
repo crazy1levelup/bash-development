@@ -8,4 +8,3 @@ echo "Ii miEEErcuri"
 else
 echo "Nu ii miercuri"
 fi
-
